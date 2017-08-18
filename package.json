@@ -1,0 +1,30 @@
+{
+  "bugs": {
+    "url": "https://github.com/PROPHESSOR/nwjs-analytics/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "GA for JS",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "analytics.js"
+  ],
+  "homepage": "https://github.com/daaru00/nwjs-analytics#readme",
+  "keywords": [
+    "google", "analytics"
+  ],
+  "license": "MIT",
+  "name": "nwjs-analytics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROPHESSOR/nwjs-analytics.git"
+  },
+  "scripts": {
+    "test": "node"
+  },
+  "version": "1.1.1"
+}
